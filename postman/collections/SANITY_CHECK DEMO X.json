@@ -27,7 +27,7 @@
 									"\r",
 									"\r",
 									"/**Test Status Code 200 OK */ \r",
-									"pm.test(\"Status code is 200\", function () {\r",
+									"pm.test(\"Status code is 200 Checked\", function () {\r",
 									"    pm.response.to.have.status(200);\r",
 									"});\r",
 									"\r",
@@ -279,62 +279,62 @@
 	],
 	"variable": [
 		{
-			"id": "3e2c88dd-3288-4e2d-9acd-a4bc563a3dc7",
+			"id": "425f9ff5-1d7e-4d24-a24f-1aa5e438afd4",
 			"key": "accessorialChargeRate",
 			"value": ""
 		},
 		{
-			"id": "f3b1f5f9-9e4d-4252-b6c2-cb060d683b99",
+			"id": "2845e3cb-be82-4617-a06e-2b2d28a52ba7",
 			"key": "accessorialGroupconditons",
 			"value": ""
 		},
 		{
-			"id": "41c3b4b3-2f54-44a7-bce5-2fa6659ea481",
+			"id": "50864c94-e072-46a2-9252-1558231a0065",
 			"key": "portOfLoading",
 			"value": ""
 		},
 		{
-			"id": "72912738-66ca-4759-87a4-ff2f4acc48b1",
+			"id": "fdee0087-7825-4b8b-a6ee-c4dc4cf0ffb7",
 			"key": "portOfDischarge",
 			"value": ""
 		},
 		{
-			"id": "6e8764aa-1e92-4d36-a542-d2425a8aa426",
+			"id": "4ab2f060-1dad-4884-bc74-962cb13274bf",
 			"key": "containerSpecifications",
 			"value": ""
 		},
 		{
-			"id": "482af560-3bcc-4830-a9dd-65f03e4d2d44",
+			"id": "20d578a4-6ec6-4124-958b-5a8d1249402a",
 			"key": "accessChargeRate",
 			"value": ""
 		},
 		{
-			"id": "34ba5764-42a7-419a-843f-8a08538b4212",
+			"id": "5b3cf836-480a-486a-9008-7076aed5b0d6",
 			"key": "accessChargeGroup",
 			"value": ""
 		},
 		{
-			"id": "88f7057b-ecd4-4ad7-929b-1effeb5db009",
+			"id": "566def03-151d-4f50-9a53-e62e2cfd2240",
 			"key": "accessCharges",
 			"value": ""
 		},
 		{
-			"id": "f7ab26c6-ec6d-4997-a5b6-0ba268d2565c",
+			"id": "b8c248c3-8fb6-4071-8b98-ed2810bf588e",
 			"key": "contSpecifications",
 			"value": ""
 		},
 		{
-			"id": "7100ad1e-e806-4882-90b2-c9d9105c4811",
+			"id": "c20de469-0422-4112-a428-1e377067fc2e",
 			"key": "pol",
 			"value": ""
 		},
 		{
-			"id": "2378b135-6fa8-4faf-bff1-bd7855814843",
+			"id": "5f388e5e-03bc-4ab2-a0e1-d5a6a2249ec0",
 			"key": "pod",
 			"value": ""
 		},
 		{
-			"id": "fb4a445f-0324-40b6-9c17-92931dcc9dd3",
+			"id": "ff5827aa-9bd5-4c0f-a211-b4f2b1748051",
 			"key": "fieldSet",
 			"value": ""
 		}
