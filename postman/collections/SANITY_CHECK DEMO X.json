@@ -27,7 +27,7 @@
 									"\r",
 									"\r",
 									"/**Test Status Code 200 OK */ \r",
-									"pm.test(\"Status code is 200 Code\", function () {\r",
+									"pm.test(\"Status code is 200 Code Label\", function () {\r",
 									"    pm.response.to.have.status(200);\r",
 									"});\r",
 									"\r",
